@@ -188,6 +188,13 @@ cv2.destroyAllWindows()
     return c
  ```
  
+ ## Terraform py file
+ [tf.py](https://github.com/Hubcodee/Detect-and-Launch/blob/main/tf.py)
+ 
+ ## Terraform file
+ [Terraform file](https://github.dev/Hubcodee/Detect-and-Launch/blob/main/first.tf)
+ 
+ 
  
 
 
